@@ -1,0 +1,24 @@
+=====================================================================
+            YOUTUBE CONTENT ANALYTICS & PIPELINE REPORT
+=====================================================================
+
+1. CATEGORY PERFORMANCE SUMMARY (TOP CATEGORIES)
+---------------------------------------------------------------------
+     category  total_videos  total_views  avg_views  engagement_rate_pct
+        Music             1    1200000.0  1200000.0                 9.17
+       Gaming             1     500000.0   500000.0                 9.00
+    Education             1     150000.0   150000.0                 8.00
+Uncategorized             1      85000.0    85000.0                 7.29
+Entertainment             1      25000.0    25000.0                 7.20
+
+2. TOP 5 MOST VIEWED VIDEOS
+---------------------------------------------------------------------
+    video_title      category   views  likes
+  Music Release         Music 1200000 110000
+  Gaming Stream        Gaming  500000  45000
+Python Tutorial     Education  150000  12000
+    Tech Review Uncategorized   85000   6200
+  Daily Vlog 12 Entertainment   25000   1800
+
+=====================================================================
+Pipeline Execution Completed Successfully using DuckDB & Python.

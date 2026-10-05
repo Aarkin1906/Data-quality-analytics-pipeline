@@ -1,0 +1,251 @@
+video_id,title,category,views,likes,comment_count
+VID_001,Movie Review,Travel,2820653,123267,11322
+VID_002,Daily Vlog,Travel,397541,30281,6033
+VID_003,Piano Melodies,Music,3194595,99828,16086
+VID_004,Daily Vlog - Part 4,Food,1564797,132718,21051
+VID_005,Acoustic Cover - Part 7,Music,1708060,85972,9905
+VID_006,Resume Tips,Education,329867,18952,1896
+VID_007,Behind The Scenes - Part 6,Finance,247933,14562,2186
+VID_008,Celebrity Interview,Fitness,1297886,113329,15097
+VID_009,Minecraft Hardcore,Gaming,1707153,68436,4329
+VID_010,EDM Party Mix,Music,2754013,108748,8985
+VID_011,Machine Learning 101 - Part 8,Education,2890411,265155,28973
+VID_012,Daily Vlog,Travel,2762016,63064,9505
+VID_013,Standup Comedy,Entertainment,2690890,222337,29930
+VID_014,Movie Review - Part 10,Finance,2487424,74633,4684
+VID_015,Machine Learning 101 - Part 2,Education,2912512,251334,43951
+VID_016,AI Tools - Part 3,Tech,2222513,79976,14706
+VID_017,Daily Vlog,Automobile,2551850,193607,15019
+VID_018,Standup Comedy,Fitness,1429668,64110,4778
+VID_019,Standup Comedy - Part 2,Entertainment,2062016,197428,35073
+VID_020,Data Science Guide,Tech,3203446,171272,16039
+VID_021,Celebrity Interview - Part 10,Entertainment,2226787,165069,13294
+VID_022,Web Dev 2026 - Part 8,Tech,452618,43958,7471
+VID_023,Standup Comedy,Food,99224,2710,442
+VID_024,Acoustic Cover,Music,3354775,216440,31816
+VID_025,iPhone Review,Tech,3468970,312160,23443
+VID_026,Daily Vlog,Finance,2123650,202754,29179
+VID_027,Movie Review - Part 10,Travel,2553295,153871,16371
+VID_028,Behind The Scenes,Finance,1467014,44767,2602
+VID_029,Behind The Scenes - Part 7,Food,1732584,59815,7208
+VID_030,Daily Vlog - Part 3,Fitness,703585,36811,2517
+VID_031,Behind The Scenes,Food,1691974,68484,4058
+VID_032,Valorant Highlights - Part 4,Gaming,2770612,167644,20069
+VID_033,Movie Review - Part 5,Travel,3326445,212271,11125
+VID_034,Daily Vlog - Part 8,Automobile,2834606,195970,12571
+VID_035,Movie Review,Food,528345,50100,3228
+VID_036,Acoustic Cover - Part 10,Music,2913961,72061,8171
+VID_037,Celebrity Interview,Finance,443449,27326,4744
+VID_038,Standup Comedy,Travel,322149,17000,2623
+VID_039,EDM Party Mix - Part 5,Music,1721815,74871,7258
+VID_040,Fortnite Stream - Part 10,Gaming,1053176,90144,14194
+VID_041,Apex Legends Pro,Gaming,1973648,169740,17707
+VID_042,Minecraft Hardcore,Gaming,348579,14885,1286
+VID_043,Fortnite Stream - Part 10,Gaming,2471489,244114,36071
+VID_044,Daily Vlog,Entertainment,2497222,124607,19837
+VID_045,Valorant Highlights,Gaming,1691923,44112,4709
+VID_046,GTA 6 Walkthrough,Gaming,1625905,67954,5744
+VID_047,Movie Review,Food,2868469,77677,10293
+VID_048,Standup Comedy,Entertainment,2818059,114960,17305
+VID_049,Machine Learning 101,Education,707263,52280,6872
+VID_050,Exam Preparation - Part 6,Education,281722,19876,998
+VID_051,Fortnite Stream - Part 10,Gaming,2196364,120228,8382
+VID_052,Behind The Scenes - Part 5,Fitness,94870,6257,514
+VID_053,Daily Vlog,Automobile,1648819,146804,13418
+VID_054,Daily Vlog - Part 9,Travel,2029334,105710,17096
+VID_055,Movie Review - Part 8,Automobile,1237955,79543,10978
+VID_056,Behind The Scenes - Part 9,Fitness,2774836,249436,42639
+VID_057,Behind The Scenes - Part 6,Entertainment,1400170,119710,22607
+VID_058,Behind The Scenes,Travel,1759482,42145,8337
+VID_059,Movie Review - Part 9,Fitness,2996116,142496,9640
+VID_060,Celebrity Interview,Food,2353512,225117,31742
+VID_061,Celebrity Interview,Automobile,2828582,63703,8097
+VID_062,Standup Comedy,Automobile,333791,23158,2628
+VID_063,Movie Review,Automobile,1153912,104848,8492
+VID_064,Daily Vlog - Part 7,Travel,938220,86806,13339
+VID_065,Standup Comedy - Part 8,Fitness,1570467,68829,7267
+VID_066,Exam Preparation,Education,1238741,66502,7918
+VID_067,Celebrity Interview - Part 10,Food,1485734,103801,7927
+VID_068,Acoustic Cover,Music,1413821,77975,15181
+VID_069,Behind The Scenes,Entertainment,65586,3006,356
+VID_070,Standup Comedy,Fitness,112418,4279,547
+VID_071,Lofi Beats 24/7,Music,3283845,136369,9413
+VID_072,Celebrity Interview,Travel,2163649,95140,9325
+VID_073,Standup Comedy,Travel,533173,29505,4799
+VID_074,Resume Tips - Part 9,Education,1932393,76013,5383
+VID_075,Movie Review - Part 1,Food,3321460,318300,30510
+VID_076,Daily Vlog - Part 1,Fitness,2909263,228813,23852
+VID_077,Celebrity Interview,Fitness,672089,65826,6423
+VID_078,Behind The Scenes,Entertainment,1832553,58679,3751
+VID_079,Movie Review,Entertainment,2621397,206066,36919
+VID_080,Daily Vlog - Part 9,Travel,63993,4325,226
+VID_081,Web Dev 2026 - Part 10,Tech,647534,48041,7413
+VID_082,SQL vs NoSQL,Education,2862723,125195,10052
+VID_083,Daily Vlog,Fitness,3216369,239483,26433
+VID_084,iPhone Review,Tech,2505927,72136,4968
+VID_085,Daily Vlog - Part 10,Finance,2255174,221021,39388
+VID_086,Python Tutorial,Tech,2930235,259317,41600
+VID_087,Celebrity Interview,Entertainment,849813,33337,5674
+VID_088,Daily Vlog,Entertainment,1902023,57762,9302
+VID_089,Behind The Scenes - Part 6,Food,3360312,186245,29594
+VID_090,Behind The Scenes - Part 6,Food,3436244,158115,21550
+VID_091,Celebrity Interview,Travel,1372511,66460,9045
+VID_092,DuckDB Crash Course,Tech,1009089,79647,12682
+VID_093,Apex Legends Pro,Gaming,1214944,41621,7834
+VID_094,Daily Vlog,Finance,2177197,155899,24598
+VID_095,Daily Vlog,Travel,2369079,155288,19822
+VID_096,Movie Review,Travel,1619811,142798,26420
+VID_097,Celebrity Interview,Automobile,1518101,82178,6915
+VID_098,Valorant Highlights,Gaming,3092843,309184,29538
+VID_099,Movie Review,Entertainment,3280633,164902,10526
+VID_100,Daily Vlog,Fitness,1519353,134307,14945
+VID_101,Piano Melodies - Part 10,Music,3163145,189832,26381
+VID_102,Data Science Guide,Tech,568716,31015,5653
+VID_103,Daily Vlog - Part 6,Entertainment,607761,33272,5992
+VID_104,Movie Review - Part 6,Fitness,1518233,145004,14956
+VID_105,Behind The Scenes - Part 9,Travel,3281286,100249,9360
+VID_106,AI Tools,Tech,1631210,130890,16637
+VID_107,Resume Tips - Part 9,Education,943646,58248,5934
+VID_108,EDM Party Mix,Music,2581203,109894,8471
+VID_109,Apex Legends Pro,Gaming,1054240,97323,10909
+VID_110,Behind The Scenes,Automobile,288524,21183,4012
+VID_111,Standup Comedy,Fitness,270985,16587,2230
+VID_112,Movie Review,Entertainment,3177930,248143,47933
+VID_113,DuckDB Crash Course,Tech,673771,47089,5802
+VID_114,Standup Comedy - Part 2,Entertainment,419858,10418,557
+VID_115,Behind The Scenes,Entertainment,472669,33275,3561
+VID_116,Celebrity Interview - Part 9,Travel,2334137,118150,19555
+VID_117,Movie Review - Part 10,Travel,1228686,43512,7998
+VID_118,Celebrity Interview,Travel,1290239,76595,5049
+VID_119,Movie Review - Part 1,Travel,25111,1932,374
+VID_120,Movie Review,Travel,1828981,62550,4666
+VID_121,Standup Comedy - Part 5,Fitness,788347,63241,4306
+VID_122,Behind The Scenes - Part 7,Entertainment,1985352,159126,30436
+VID_123,Movie Review - Part 9,Food,28798,2304,356
+VID_124,Standup Comedy - Part 6,Food,1474806,31178,3554
+VID_125,Behind The Scenes - Part 2,Finance,3427515,293350,31724
+VID_126,Standup Comedy - Part 9,Food,1822116,64188,6365
+VID_127,Movie Review,Finance,2816862,128685,15754
+VID_128,Exam Preparation - Part 4,Education,123235,9465,1146
+VID_129,Lofi Beats 24/7 - Part 2,Music,3436039,286900,46819
+VID_130,Standup Comedy - Part 7,Entertainment,1857043,112779,7017
+VID_131,Movie Review - Part 5,Finance,2229401,197985,18913
+VID_132,iPhone Review,Tech,635883,55115,5250
+VID_133,Standup Comedy - Part 9,Finance,2087246,92700,10622
+VID_134,Behind The Scenes - Part 8,Automobile,2087550,128092,24409
+VID_135,Resume Tips - Part 2,Education,3250536,144815,26761
+VID_136,Piano Melodies,Music,1652077,52255,8413
+VID_137,Lofi Beats 24/7,Music,1405747,47304,6295
+VID_138,Data Science Guide,Tech,2583947,120431,12724
+VID_139,Apex Legends Pro - Part 5,Gaming,1258846,68845,11795
+VID_140,Standup Comedy - Part 8,Automobile,309442,30233,2621
+VID_141,Data Science Guide - Part 3,Tech,2524955,159079,11856
+VID_142,Fortnite Stream - Part 3,Gaming,2927771,239841,45576
+VID_143,Python Tutorial - Part 8,Tech,602024,35356,3241
+VID_144,Behind The Scenes,Fitness,2360769,52121,5587
+VID_145,Acoustic Cover,Music,188031,15941,2790
+VID_146,Python Tutorial - Part 8,Tech,907637,33665,2627
+VID_147,Behind The Scenes - Part 3,Finance,1158043,110509,9249
+VID_148,Celebrity Interview - Part 9,Entertainment,286716,9384,1165
+VID_149,EDM Party Mix,Music,3305639,324097,20276
+VID_150,Daily Vlog,Automobile,3406165,77554,15111
+VID_151,Piano Melodies,Music,3306829,127410,18793
+VID_152,Celebrity Interview - Part 10,Fitness,2615470,150248,27001
+VID_153,Daily Vlog - Part 3,Entertainment,3211732,164201,18420
+VID_154,Celebrity Interview - Part 1,Food,1903864,70913,9230
+VID_155,Standup Comedy - Part 8,Travel,330575,29612,2671
+VID_156,Behind The Scenes - Part 9,Finance,2707329,104569,14589
+VID_157,Daily Vlog,Entertainment,1219703,33698,2588
+VID_158,GTA 6 Walkthrough - Part 9,Gaming,2595432,216231,27395
+VID_159,Standup Comedy,Fitness,1260194,63002,6394
+VID_160,Standup Comedy,Automobile,2132755,101571,6564
+VID_161,Apex Legends Pro - Part 1,Gaming,1065962,78629,14970
+VID_162,Machine Learning 101,Education,2551283,228129,32688
+VID_163,Behind The Scenes,Travel,234468,16849,1275
+VID_164,Daily Vlog,Travel,446639,19987,2413
+VID_165,Exam Preparation,Education,2669179,219398,32663
+VID_166,Daily Vlog - Part 3,Travel,692092,56823,6911
+VID_167,Pop Hit Single,Music,2791124,195841,13450
+VID_168,Exam Preparation,Education,717082,55821,9709
+VID_169,Machine Learning 101 - Part 1,Education,3398277,117977,22909
+VID_170,Celebrity Interview - Part 8,Finance,1994059,100950,6849
+VID_171,Daily Vlog - Part 7,Food,1632683,113367,10405
+VID_172,Celebrity Interview - Part 3,Finance,831236,79257,11296
+VID_173,Movie Review - Part 2,Entertainment,1265229,96744,5181
+VID_174,Lofi Beats 24/7 - Part 4,Music,1113499,40782,4855
+VID_175,DuckDB Crash Course,Tech,2126124,172120,28632
+VID_176,Pop Hit Single - Part 9,Music,10242,542,65
+VID_177,Celebrity Interview - Part 7,Travel,1270992,85752,5203
+VID_178,Daily Vlog,Entertainment,529036,25787,3833
+VID_179,SQL vs NoSQL,Education,3079148,204500,27021
+VID_180,Standup Comedy,Fitness,1449459,84094,11485
+VID_181,Movie Review,Entertainment,2316638,198495,16356
+VID_182,GTA 6 Walkthrough,Gaming,247351,20834,3327
+VID_183,Fortnite Stream - Part 2,Gaming,3499427,253283,16369
+VID_184,Apex Legends Pro,Gaming,2038091,94645,5012
+VID_185,Standup Comedy - Part 1,Finance,1528372,70039,10797
+VID_186,Celebrity Interview,Entertainment,3178591,285452,50825
+VID_187,Celebrity Interview - Part 3,Food,235475,23258,2334
+VID_188,Web Dev 2026 - Part 3,Tech,647797,18198,2120
+VID_189,Celebrity Interview - Part 3,Automobile,1059188,50523,7534
+VID_190,Resume Tips,Education,2507352,86038,10611
+VID_191,Standup Comedy - Part 6,Entertainment,2482387,178686,30648
+VID_192,Python Tutorial,Tech,2096547,139400,8251
+VID_193,Data Science Guide - Part 4,Tech,60704,1373,239
+VID_194,Celebrity Interview - Part 3,Fitness,3180621,273391,43591
+VID_195,Behind The Scenes,Automobile,3393561,102395,17612
+VID_196,Piano Melodies - Part 8,Music,2880519,150041,24809
+VID_197,Movie Review,Fitness,679029,40091,4251
+VID_198,GTA 6 Walkthrough - Part 10,Gaming,2055340,159654,27807
+VID_199,Resume Tips,Education,682029,16704,2867
+VID_200,Movie Review,Fitness,3187326,136081,14371
+VID_201,SQL vs NoSQL,Education,3320431,278934,33496
+VID_202,Resume Tips - Part 2,Education,926316,22753,4483
+VID_203,Behind The Scenes,Fitness,2542028,63711,10244
+VID_204,Movie Review - Part 8,Finance,1505872,133938,18463
+VID_205,Standup Comedy - Part 9,Travel,1816553,89032,7892
+VID_206,Movie Review,Fitness,258624,24126,2762
+VID_207,Behind The Scenes,Fitness,294630,22901,3523
+VID_208,Celebrity Interview,Automobile,1607933,154298,11975
+VID_209,Exam Preparation,Education,2958693,257347,41107
+VID_210,EDM Party Mix - Part 8,Music,3368483,78960,8219
+VID_211,Daily Vlog - Part 1,Finance,3383313,220615,18437
+VID_212,Celebrity Interview,Travel,2265252,62399,12193
+VID_213,Celebrity Interview - Part 7,Automobile,1069100,77035,10061
+VID_214,AI Tools - Part 1,Tech,1083311,58138,3677
+VID_215,Celebrity Interview - Part 2,Fitness,3193614,261081,49030
+VID_216,Lofi Beats 24/7,Music,2743389,99866,18855
+VID_217,Standup Comedy - Part 9,Travel,2721923,150316,18650
+VID_218,Pop Hit Single - Part 2,Music,2456490,208153,37148
+VID_219,Pop Hit Single,Music,268085,9728,914
+VID_220,Celebrity Interview - Part 3,Entertainment,1257242,121043,21711
+VID_221,Lofi Beats 24/7,Music,3292653,327687,45245
+VID_222,Behind The Scenes - Part 6,Entertainment,813876,53614,4642
+VID_223,Standup Comedy - Part 10,Finance,673440,33139,2638
+VID_224,Movie Review,Finance,664098,40477,5445
+VID_225,Movie Review - Part 4,Finance,1988991,77773,5395
+VID_226,Movie Review - Part 6,Entertainment,957061,66342,12106
+VID_227,Movie Review,Food,2452982,102399,6548
+VID_228,Celebrity Interview,Entertainment,3019683,229343,14607
+VID_229,Behind The Scenes - Part 4,Finance,1197695,97885,15185
+VID_230,Web Dev 2026,Tech,2868510,267132,15826
+VID_231,Celebrity Interview - Part 7,Automobile,3463332,246659,30367
+VID_232,Daily Vlog - Part 7,Travel,684634,31574,5138
+VID_233,Standup Comedy - Part 6,Fitness,2769006,124058,13128
+VID_234,GTA 6 Walkthrough - Part 4,Gaming,663247,55343,8646
+VID_235,Daily Vlog - Part 2,Food,3143353,288778,40938
+VID_236,Daily Vlog - Part 9,Finance,3442700,98141,8016
+VID_237,Daily Vlog,Entertainment,2166925,189087,17467
+VID_238,Python Tutorial - Part 10,Tech,1507168,148891,24203
+VID_239,Behind The Scenes - Part 8,Food,546797,49462,7291
+VID_240,Resume Tips - Part 8,Education,1816960,119036,7697
+VID_241,Behind The Scenes - Part 1,Food,3091301,148853,26387
+VID_242,Standup Comedy - Part 1,Fitness,2578174,193313,22317
+VID_243,Machine Learning 101 - Part 6,Education,552268,33404,4646
+VID_244,Standup Comedy,Food,1238126,105560,8805
+VID_245,Machine Learning 101 - Part 2,Education,2655115,75006,13089
+VID_246,Exam Preparation,Education,698801,26858,3448
+VID_247,Daily Vlog,Fitness,2724077,254449,18203
+VID_248,DuckDB Crash Course,Tech,3307938,275439,35969
+VID_249,Daily Vlog,Entertainment,1183311,93642,5219
+VID_250,Celebrity Interview - Part 9,Automobile,3479419,177191,11672
